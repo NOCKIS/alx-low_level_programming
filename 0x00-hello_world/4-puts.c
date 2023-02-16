@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main - program that prints programming is like a building 
- * Return:0(programcompleted)
+ * main - program that prints using puts.
+ * Return: 0 (if program is succes).
  */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
